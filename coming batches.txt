@@ -1,0 +1,39 @@
+August 1 st week ( Telugu only ) 
+
+1 devops master program 
+
+Corse duration : 3 months 
+
+
+per 1: 30 hr  
+
+1. Linux basics 
+
+2 aws training 
+
+3. Devops ( Git , jenkins, maven, ansible , sonarqube , Docker , Kubernetes , Nagios , pometheus , Terraform ) 
+
+
+2 . Aws Masters proagram  ( telugu )
+
+Course duration : 3 months  1: 30 hr 
+
+0.Linux basics 
+
+1. awsDeveloper  
+
+2. aws Architect 
+
+3. Aws security Speacilaity 
+
+4. Terraform Associate 
+
+5. Autmate aws services on terraform  
+
+
+
+
+
+
+
+
